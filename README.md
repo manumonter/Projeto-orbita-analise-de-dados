@@ -62,7 +62,47 @@ O projeto seguiu três fases principais:
 
 | Hipótese | Resultado |
 |---------|-----------|
-| HipóteseResultadoAtrasos influenciam negativamente as avaliações | ✅ Confirmada |
-| Pedidos com mais itens têm mais chance de erros e avaliações negativas | ✅ Confirmada |
+| Atrasos influenciam negativamente as avaliações | ✅ Confirmada |
+| Pedidos com mais itens têm mais avaliações negativas | ✅ Confirmada |
 | Regiões mais afastadas têm maior % de notas 1 e 2 | ✅ Confirmada |
 | Vendedores com mais vendas têm mais avaliações negativas | ❌ Refutada |
+
+
+**3️⃣ Perfil de Clientes Recorrentes**  
+
+| Hipótese | Resultado |
+|---------|-----------|
+| Pagamento com cartão de crédito tem maior frequência de recompra | ✅ Confirmada |
+| Clientes com frete mais baixo compram mais vezes | ✅ Confirmada |
+| Categorias recorrentes geram mais recompra | ❌ Refutada |
+
+## 🎯 Recomendações e Priorização
+
+As ações foram classificadas por uma Matriz de Esforço × Impacto:
+
+**🔴 Alta Prioridade — Quick Wins (Alto Impacto, Baixo/Médio Esforço)**    
+
+| Ação | KPI Impactado | Prazo |
+|------|--------------|-------|
+| Monitoramento proativo de atrasos com alertas automáticos | ⏱ Atraso médio | 30–60 dias |
+| Checklist para pedidos com múltiplos itens | ⭐ Avaliação | 30 dias |
+| Campanha segmentada para clientes que pagam com cartão / frete baixo | 🔁 Recorrência | 30 dias |
+| Cupom/compensação automática para pedidos atrasados | ⭐ Avalação | 30 dias |
+| Automatização do pipeline de curadoria de dados | Todos os KPIs | 60 dias |
+
+
+**🟡 Médio Prazo (Alto Impacto, Esforço Médio-Alto)**    
+
+| Ação | KPI Impactado | Prazo |
+|------|--------------|-------|
+| Revisão do processo de picking com priorização de pedidos | ⏱ Atraso / ⭐ Avaliação | 60–90 dias |
+| Parcerias logísticas regionais (hubs, cross-docking) | ⏱ Atraso | 90+ dias |
+| Programa de incentivo a feedback positivo | ⭐ Avaliação | 60–90 dias |
+
+
+**🔵 Longo Prazo (Alto Impacto, Alto Esforço)**
+
+| Ação | KPI Impactado | Prazo |
+|------|--------------|-------|
+| Modelo preditivo de risco de atraso e avaliação negativa | ⏱ / ⭐ | 6+ meses |
+| Estratégia avançada de fidelização (assinatura, descontos progressivos) | 🔁 Recorrência | 6+ meses |
