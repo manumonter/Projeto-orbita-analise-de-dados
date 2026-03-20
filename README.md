@@ -58,6 +58,9 @@ O projeto seguiu três fases principais:
 | Produtos frágeis/grandes têm transporte mais complexo e mais atraso | ❌ Refutada |
 | Maior número de itens no pedido gera mais atraso | ❌ Refutada |
 
+<img width="1174" height="650" alt="image" src="https://github.com/user-attachments/assets/9b3f8145-1246-4cab-baee-27536b3b3800" />
+
+
 **2️⃣ Avaliações Baixas**
 
 | Hipótese | Resultado |
@@ -67,6 +70,8 @@ O projeto seguiu três fases principais:
 | Regiões mais afastadas têm maior % de notas 1 e 2 | ✅ Confirmada |
 | Vendedores com mais vendas têm mais avaliações negativas | ❌ Refutada |
 
+<img width="1174" height="643" alt="image" src="https://github.com/user-attachments/assets/251eaab2-72d7-4a2b-9604-5cf9856bdaa7" />
+
 
 **3️⃣ Perfil de Clientes Recorrentes**  
 
@@ -75,6 +80,9 @@ O projeto seguiu três fases principais:
 | Pagamento com cartão de crédito tem maior frequência de recompra | ✅ Confirmada |
 | Clientes com frete mais baixo compram mais vezes | ✅ Confirmada |
 | Categorias recorrentes geram mais recompra | ❌ Refutada |
+
+<img width="1178" height="649" alt="image" src="https://github.com/user-attachments/assets/fe9a7bfe-0dfc-40f4-b2d5-d372fe36c3d9" />
+
 
 ## 🎯 Recomendações e Priorização
 
