@@ -114,3 +114,16 @@ As ações foram classificadas por uma Matriz de Esforço × Impacto:
 |------|--------------|-------|
 | Modelo preditivo de risco de atraso e avaliação negativa | ⏱ / ⭐ | 6+ meses |
 | Estratégia avançada de fidelização (assinatura, descontos progressivos) | 🔁 Recorrência | 6+ meses |
+
+## 🗄️ Queries SQL
+As queries estão organizadas na pasta queries/ e nomeadas de acordo com o tema. Cada arquivo contém comentários explicando objetivo, lógica e resultado esperado.
+
+## 🛠️ Stack Utilizada
+
+## 🛠️ Ferramentas Utilizadas
+
+| Ferramenta | Uso |
+|------------|-----|
+| **SQL** | Exploração, validação de hipóteses e extração de KPIs |
+| **DBeaver** | Ambiente de execução das queries |
+| **Power BI** | Dashboards interativos e storytelling visual |
