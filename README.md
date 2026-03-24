@@ -120,8 +120,6 @@ As queries estão organizadas na pasta queries/ e nomeadas de acordo com o tema.
 
 ## 🛠️ Stack Utilizada
 
-## 🛠️ Ferramentas Utilizadas
-
 | Ferramenta | Uso |
 |------------|-----|
 | **SQL** | Exploração, validação de hipóteses e extração de KPIs |
