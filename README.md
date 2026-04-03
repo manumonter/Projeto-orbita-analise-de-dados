@@ -86,7 +86,7 @@ O projeto seguiu três fases principais:
 
 ## 🎯 Recomendações e Priorização
 
-As ações foram classificadas por uma Matriz de Esforço × Impacto:
+As ações para resolver as hipóteses confirmadas foram classificadas por uma Matriz de Esforço × Impacto:
 
 **🔴 Alta Prioridade — Quick Wins (Alto Impacto, Baixo/Médio Esforço)**    
 
