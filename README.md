@@ -21,6 +21,8 @@ O case trazia três indicadores com metas definidas pela diretoria. O primeiro p
 O atraso médio estava 4x maior do que o apresentado, e a taxa de recorrência era de apenas 3,1%, não 12%. Isso impactou diretamente a definição das metas: seguir os alvos originais seria trabalhar com base em premissas falsas.
 Essas três métricas estavam diretamente interligadas: atrasos geram avaliações ruins, que por sua vez reduzem a confiança e a recorrência dos clientes.
 
+<img width="1370" height="736" alt="image" src="https://github.com/user-attachments/assets/5493d7ff-d096-43ed-b20a-46f3a9510de8" />
+
 ## 🎯 Metas Revisadas com Base nos Dados  
 Com os indicadores reais em mãos, as metas originais foram reavaliadas. Seguir alvos calculados sobre números incorretos tornaria qualquer planejamento inviável. As novas metas foram definidas com base na evolução histórica dos dados:
 
